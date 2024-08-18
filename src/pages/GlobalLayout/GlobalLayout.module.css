@@ -1,0 +1,12 @@
+
+
+.globallayout {
+    display: flex;
+    flex-direction: column;
+}
+
+.main {
+    width: 100%;
+    height: calc(100dvh - 50px - 2.5rem);
+    overflow-y: scroll;
+}
